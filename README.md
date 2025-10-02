@@ -78,7 +78,8 @@ This repository provides a detailed overview of a **Human Resources Analytics Da
 3. Use filters to drill down by department, gender, or time period.  
 
 ### Example View  
-![HR Dashboard](assets/screenshot-hr.png)
+![HR Dashboard](assets/p1.png)
+![HR Dashboard](assets/p3.png)
 
 ---
 
